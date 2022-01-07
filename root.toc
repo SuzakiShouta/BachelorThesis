@@ -11,7 +11,6 @@
 \contentsline {chapter}{\numberline {第3章}時空間フェンシングに基づいたクラウドセンシングプラットフォーム}{6}{}%
 \contentsline {section}{\numberline {3.1}時空間フェンシングの定義}{6}{}%
 \contentsline {section}{\numberline {3.2}時空間フェンシングに基づくクラウドセンシングプラットフォーム}{6}{}%
-\contentsline {subsection}{\numberline {3.2.1}ラヴラスの利用規約方針}{6}{}%
 \contentsline {chapter}{\numberline {第4章}特定の時空間への進入時に自動センシングするアプリケーション}{7}{}%
 \contentsline {section}{\numberline {4.1}ラヴラスのモバイルアプリケーションの要求仕様}{7}{}%
 \contentsline {section}{\numberline {4.2}時空間への進入時に自動センシングするアプリケーションの実装}{7}{}%
