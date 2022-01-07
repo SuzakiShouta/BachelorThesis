@@ -1,0 +1,831 @@
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.12.5)  1 JUN 2021 06:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**f:/tex/Lavplus_graduation_paper/root
+(f:/tex/Lavplus_graduation_paper/root.tex
+pLaTeX2e <2020-10-01>+1 (based on LaTeX2e <2020-10-01> patch level 2)
+L3 programming layer <2020-12-03> xparse <2020-03-03> (c:/w32tex/share/texmf-dist/tex/platex/base/jbook.cls
+Document Class: jbook 2020/09/30 v1.8f Standard pLaTeX class
+\c@@paper=\count176
+(c:/w32tex/share/texmf-dist/tex/platex/base/jbk10.clo
+File: jbk10.clo 2020/09/30 v1.8f Standard pLaTeX file (size option)
+)
+\c@part=\count177
+\c@chapter=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 708.
+\toclineskip=\dimen154
+\@lnumwidth=\dimen155
+\bibindent=\dimen156
+\heisei=\count186
+) (./personal.sty) (c:/w32tex/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (c:/w32tex/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/w32tex/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/w32tex/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+ (c:/w32tex/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2020/08/26 v5.0h Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (c:/w32tex/share/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (c:/w32tex/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/w32tex/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/w32tex/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen159
+)) (c:/w32tex/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+) (c:/w32tex/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box64
+\strutbox@=\box65
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks18
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks19
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (./ulinej.sty
+\ul@curpos=\count199
+\ul@tmpbox=\box66
+\ul@skipwidth=\dimen168
+\ul@depth=\dimen169
+\ul@height=\dimen170
+) (c:/w32tex/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/w32tex/share/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+ (c:/w32tex/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count266
+\calc@Bcount=\count267
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count268
+\calc@Cskip=\skip54
+) (c:/w32tex/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count269
+\l_MT_multwidth_dim=\dimen173
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen174
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen175
+\l_MT_above_intertext_sep=\dimen176
+\l_MT_below_intertext_sep=\dimen177
+\l_MT_above_shortintertext_sep=\dimen178
+\l_MT_below_shortintertext_sep=\dimen179
+\xmathstrut@box=\box67
+\xmathstrut@dim=\dimen180
+) (c:/w32tex/share/texmf-dist/tex/latex/here/here.sty) (c:/w32tex/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks22
+\float@box=\box68
+\@float@everytoks=\toks23
+\@floatcapt=\box69
+) (c:/w32tex/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/w32tex/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/w32tex/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen181
+\pgfutil@tempdimb=\dimen182
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box70
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/w32tex/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
+))
+Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/w32tex/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/w32tex/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen183
+\pgf@y=\dimen184
+\pgf@xa=\dimen185
+\pgf@ya=\dimen186
+\pgf@xb=\dimen187
+\pgf@yb=\dimen188
+\pgf@xc=\dimen189
+\pgf@yc=\dimen190
+\pgf@xd=\dimen191
+\pgf@yd=\dimen192
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count271
+\c@pgf@countb=\count272
+\c@pgf@countc=\count273
+\c@pgf@countd=\count274
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count275
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/01 v3.1.7a (3.1.7a)
+)
+Driver file for pgf: pgfsys-dvipdfmx.def
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
+)
+\pgfsys@objnum=\count276
+)) (c:/w32tex/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)) (c:/w32tex/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/w32tex/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvipdfmx.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen193
+\pgfmath@count=\count279
+\pgfmath@box=\box71
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count280
+)) (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@picminx=\dimen194
+\pgf@picmaxx=\dimen195
+\pgf@picminy=\dimen196
+\pgf@picmaxy=\dimen197
+\pgf@pathminx=\dimen198
+\pgf@pathmaxx=\dimen199
+\pgf@pathminy=\dimen256
+\pgf@pathmaxy=\dimen257
+\pgf@xx=\dimen258
+\pgf@xy=\dimen259
+\pgf@yx=\dimen260
+\pgf@yy=\dimen261
+\pgf@zx=\dimen262
+\pgf@zy=\dimen263
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@path@lastx=\dimen264
+\pgf@path@lasty=\dimen265
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@shorten@end@additional=\dimen266
+\pgf@shorten@start@additional=\dimen267
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfpic=\box72
+\pgf@hbox=\box73
+\pgf@layerbox@main=\box74
+\pgf@picture@serial@count=\count281
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgflinewidth=\dimen268
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@pt@x=\dimen269
+\pgf@pt@y=\dimen270
+\pgf@pt@temp=\dimen271
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfarrowsep=\dimen272
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@max=\dimen273
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfexternal@startupbox=\box75
+)) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+))) (c:/w32tex/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfnodeparttextbox=\box76
+) (c:/w32tex/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (c:/w32tex/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@nodesepstart=\dimen274
+\pgf@nodesepend=\dimen275
+) (c:/w32tex/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
+)) (c:/w32tex/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/w32tex/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/w32tex/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/w32tex/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen276
+\pgffor@skip=\dimen277
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+)) (c:/w32tex/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@plot@mark@count=\count284
+\pgfplotmarksize=\dimen278
+)
+\tikz@lastx=\dimen279
+\tikz@lasty=\dimen280
+\tikz@lastxsaved=\dimen281
+\tikz@lastysaved=\dimen282
+\tikz@lastmovetox=\dimen283
+\tikz@lastmovetoy=\dimen284
+\tikzleveldistance=\dimen285
+\tikzsiblingdistance=\dimen286
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count285
+\tikznumberofchildren=\count286
+\tikznumberofcurrentchild=\count287
+\tikz@fig@count=\count288
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfmatrixcurrentrow=\count289
+\pgfmatrixcurrentcolumn=\count290
+\pgf@matrix@numberofcolumns=\count291
+)
+\tikz@expandcount=\count292
+ (c:/w32tex/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)))
+\c@definition=\count293
+\c@example=\count294
+ (c:/w32tex/share/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
+File: l3backend-dvipdfmx.def 2020-09-24 L3 backend support: dvipdfmx
+\g__graphics_track_int=\count295
+\l__pdf_internal_box=\box81
+\g__pdf_backend_object_int=\count296
+\g__pdf_backend_annotation_int=\count297
+)
+No file root.aux.
+\openout1 = `root.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+\openout2 = `cover.aux'.
+
+(./cover.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 20.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 28.
+ (c:/w32tex/share/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+ (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+ (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [1
+
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 58.
+
+No file root.toc.
+\tf@toc=\write4
+\openout4 = `root.toc'.
+
+[2
+
+
+
+]
+\openout2 = `chap1.aux'.
+
+ (./chap1.tex
+第 1 章
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
+
+LaTeX Warning: File `cloudsensing.png' not found on input line 16.
+
+
+! LaTeX Error: Cannot determine size of graphic in cloudsensing.xbb (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...udegraphics[width=150mm]{cloudsensing.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: cloudsensing.png Graphic file (type bmp)
+<cloudsensing.png>
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 23.
+
+LaTeX Warning: Reference `cloudsensing' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Citation `weko' on page 3 undefined on input line 24.
+
+
+LaTeX Warning: Citation `5G4G' on page 3 undefined on input line 36.
+
+
+LaTeX Warning: Citation `soumu' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation `soumu' on page 3 undefined on input line 44.
+
+[3
+
+
+]
+
+LaTeX Warning: Citation `liu' on page 4 undefined on input line 48.
+
+[4] [5]) [6]
+\openout2 = `chap2.aux'.
+
+ (./chap2.tex
+第 2 章
+
+LaTeX Warning: Citation `iwamoto' on page 7 undefined on input line 13.
+
+
+LaTeX Warning: Citation `suzuki' on page 7 undefined on input line 14.
+
+
+LaTeX Warning: Citation `nami' on page 7 undefined on input line 14.
+
+
+LaTeX Warning: Citation `yone' on page 7 undefined on input line 14.
+
+
+LaTeX Warning: Citation `nari' on page 7 undefined on input line 15.
+
+
+LaTeX Warning: Citation `taka' on page 7 undefined on input line 15.
+
+
+LaTeX Warning: Citation `suyama' on page 7 undefined on input line 21.
+
+
+LaTeX Warning: Citation `yoshida' on page 7 undefined on input line 21.
+
+
+LaTeX Warning: Citation `ura' on page 7 undefined on input line 36.
+
+
+LaTeX Warning: Citation `hoso' on page 7 undefined on input line 37.
+
+
+LaTeX Warning: Citation `paku' on page 7 undefined on input line 40.
+
+[7
+
+
+
+
+]
+
+LaTeX Warning: Citation `Tangmunarunkit' on page 8 undefined on input line 55.
+
+
+LaTeX Warning: Citation `ohmage' on page 8 undefined on input line 55.
+
+
+LaTeX Warning: Citation `Ferreira' on page 8 undefined on input line 55.
+
+
+LaTeX Warning: Citation `AWARE' on page 8 undefined on input line 55.
+
+
+LaTeX Warning: Citation `jaya' on page 8 undefined on input line 65.
+
+
+LaTeX Warning: Citation `ara' on page 8 undefined on input line 70.
+
+
+LaTeX Warning: Citation `kawa' on page 8 undefined on input line 72.
+
+
+LaTeX Warning: Citation `matsu' on page 8 undefined on input line 77.
+
+
+LaTeX Warning: Citation `Parmo' on page 8 undefined on input line 80.
+
+
+LaTeX Warning: Citation `mina' on page 8 undefined on input line 85.
+
+[8]) [9]
+\openout2 = `chap3.aux'.
+
+ (./chap3.tex
+第 3 章
+
+LaTeX Warning: Citation `ziten' on page 10 undefined on input line 11.
+
+File: spatiotemporal.png Graphic file (type bmp)
+<spatiotemporal.png>
+[10
+
+
+
+
+] [11]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 60.
+
+
+LaTeX Warning: Citation `matsu' on page 12 undefined on input line 64.
+
+
+LaTeX Warning: Citation `facebook' on page 12 undefined on input line 83.
+
+
+LaTeX Warning: Citation `GDPR' on page 12 undefined on input line 84.
+
+[12] [13] [14]
+
+LaTeX Warning: File `fig1.png' not found on input line 171.
+
+
+! LaTeX Error: Cannot determine size of graphic in fig1.xbb (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171     \includegraphics[width=150mm]{fig1.png}
+                                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: fig1.png Graphic file (type bmp)
+<fig1.png>
+
+LaTeX Warning: Reference `fig:1' on page 15 undefined on input line 176.
+
+[15]
+File: fig2.png Graphic file (type bmp)
+<fig2.png>
+ [16]
+File: User.png Graphic file (type bmp)
+<User.png>
+ [17]
+
+LaTeX Warning: Reference `User' on page 18 undefined on input line 242.
+
+File: Project.png Graphic file (type bmp)
+<Project.png>
+
+LaTeX Warning: Reference `Project' on page 18 undefined on input line 254.
+
+[18]
+File: SensingSetting.png Graphic file (type bmp)
+<SensingSetting.png>
+
+
+LaTeX Warning: Reference `SensingSetting' on page 19 undefined on input line 268.
+
+[19]
+File: periodOfTimes.png Graphic file (type bmp)
+<periodOfTimes.png>
+
+
+LaTeX Warning: Reference `periodOfTimes' on page 20 undefined on input line 283.
+
+[20]
+File: SensingData.png Graphic file (type bmp)
+<SensingData.png>
+
+
+LaTeX Warning: Reference `SensingData' on page 21 undefined on input line 298.
+
+File: UserCredentials.png Graphic file (type bmp)
+<UserCredentials.png>
+[21]
+
+LaTeX Warning: Reference `UserCredentials' on page 22 undefined on input line 315.
+
+
+LaTeX Warning: Reference `fig401' on page 22 undefined on input line 320.
+
+File: 401.png Graphic file (type bmp)
+<401.png>
+
+LaTeX Warning: File `serverAndWeb.png' not found on input line 337.
+
+
+! LaTeX Error: Cannot determine size of graphic in serverAndWeb.xbb (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.337 ...egraphics[width= 150mm]{serverAndWeb.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: serverAndWeb.png Graphic file (type bmp)
+<serverAndWeb.png>
+[22]
+File: Signup.png Graphic file (type bmp)
+<Signup.png>
+ [23]
+File: baseSetting.png Graphic file (type bmp)
+<baseSetting.png>
+
+
+LaTeX Warning: Reference `baseSetting' on page 24 undefined on input line 374.
+
+File: overview.png Graphic file (type bmp)
+<overview.png>
+[24]
+
+LaTeX Warning: Reference `overview' on page 25 undefined on input line 385.
+
+File: period.png Graphic file (type bmp)
+<period.png>
+
+LaTeX Warning: Reference `period' on page 25 undefined on input line 396.
+
+File: sensors.png Graphic file (type bmp)
+<sensors.png>
+[25]
+
+LaTeX Warning: Reference `sensors' on page 26 undefined on input line 408.
+
+File: areaInput.png Graphic file (type bmp)
+<areaInput.png>
+[26]
+
+LaTeX Warning: Reference `areaInput' on page 27 undefined on input line 422.
+
+
+LaTeX Warning: Citation `geojson' on page 27 undefined on input line 425.
+
+
+LaTeX Warning: Reference `geojsonIo' on page 27 undefined on input line 426.
+
+File: geojsonIo.png Graphic file (type bmp)
+<geojsonIo.png>
+[27]
+File: notGeoJSONFormat.png Graphic file (type bmp)
+<notGeoJSONFormat.png>
+
+
+LaTeX Warning: Reference `fig401' on page 28 undefined on input line 444.
+
+File: timeInput.png Graphic file (type bmp)
+<timeInput.png>
+[28]
+File: timeModal.png Graphic file (type bmp)
+<timeModal.png>
+
+
+LaTeX Warning: Reference `timeModal' on page 29 undefined on input line 466.
+
+[29]
+File: Dashboard.png Graphic file (type bmp)
+<Dashboard.png>
+File: Dashboard-SensingData.png Graphic file (type bmp)
+<Dashboard-SensingData.png>
+ [30]
+
+LaTeX Warning: File `serverApp.png' not found on input line 499.
+
+
+! LaTeX Error: Cannot determine size of graphic in serverApp.xbb (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.499 ...ludegraphics[width= 150mm]{serverApp.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: serverApp.png Graphic file (type bmp)
+<serverApp.png>
+[31] [32]
+
+LaTeX Warning: Citation `naigai' on page 33 undefined on input line 547.
+
+
+LaTeX Warning: Reference `naigaihantei' on page 33 undefined on input line 548.
+
+
+LaTeX Warning: Reference `risou' on page 33 undefined on input line 558.
+
+
+LaTeX Warning: Reference `bunki' on page 33 undefined on input line 559.
+
+
+LaTeX Warning: Reference `orr' on page 33 undefined on input line 560.
+
+
+LaTeX Warning: Reference `naigaihantei' on page 33 undefined on input line 561.
+
+[33]
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 568--659
+ [][][] 
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 668--737
+ [][][] 
+ []
+
+[34]
+File: VerificationArea.png Graphic file (type bmp)
+<VerificationArea.png>
+ [35]
+
+LaTeX Warning: Reference `VerificationArea' on page 36 undefined on input line 834.
+
+File: sensingData.png Graphic file (type bmp)
+<sensingData.png>
+[36]) [37]
+\openout2 = `chap4.aux'.
+
+ (./chap4.tex
+第 4 章
+[38
+
+
+
+
+]) [39]
+\openout2 = `chap5.aux'.
+
+ (./chap5.tex)
+\openout2 = `thanks.aux'.
+
+ (./thanks.tex) [40
+
+
+
+
+
+
+
+]
+\openout2 = `reference.aux'.
+
+ (./reference.tex
+No file root.bbl.
+) (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./thanks.aux) (./reference.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13687 strings out of 479854
+ 268466 string characters out of 5878582
+ 566348 words of memory out of 5000000
+ 30654 multiletter control sequences out of 15000+600000
+ 418294 words of font info for 91 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 80i,14n,85p,526b,961s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+Output written on root.dvi (40 pages, 206924 bytes).
