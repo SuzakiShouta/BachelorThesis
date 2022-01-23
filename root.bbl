@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{weko}
+下坂正倫.
+\newblock クラウドソーシングの現状と可能性：3．クラウドセンシングの研究動向.
+\newblock 情報処理, Vol.~56, No.~9, pp. 891--894, aug 2015.
+
+\bibitem{5G4G}
+5gと4gで何が変わる？ | 法人のお客さま | ソフトバンク.
+\newblock \url{https://www.softbank.jp/biz/5g/column3/#biz-5g-01_02}.
+\newblock (Accessed on 01/30/2021).
+
+\bibitem{soumu}
+総務省｜令和元年版 情報通信白書｜情報通信機器の保有状況.
+\newblock
+  \url{https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd232110.html}.
+\newblock (Accessed on 01/23/2021).
+
+\bibitem{liu}
+Jinwei Liu, Haiying Shen, Husnu~S. Narman, Wingyan Chung, and Zongfang Lin.
+\newblock A survey of mobile crowdsensing techniques: A critical component for
+  the internet of things.
+\newblock {\em ACM Trans. Cyber-Phys. Syst.}, Vol.~2, No.~3, June 2018.
+
+\end{thebibliography}
