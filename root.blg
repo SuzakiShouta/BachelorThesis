@@ -12,45 +12,51 @@ A level-1 auxiliary file: thanks.aux
 A level-1 auxiliary file: reference.aux
 The style file: junsrt.bst
 Database file #1: reference.bib
-You've used 4 entries,
+Repeated entry---line 357 of file reference.bib
+ : @techreport{weko
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in hoso
+You've used 20 entries,
             2270 wiz_defined-function locations,
-            571 strings with 4810 characters,
-and the built_in function-call counts, 975 in all, are:
-= -- 69
-> -- 22
-< -- 5
-+ -- 10
-- -- 6
-* -- 44
-:= -- 112
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 4
+            656 strings with 7220 characters,
+and the built_in function-call counts, 6305 in all, are:
+= -- 493
+> -- 179
+< -- 23
++ -- 73
+- -- 53
+* -- 296
+:= -- 704
+add.period$ -- 61
+call.type$ -- 20
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 64
-empty$ -- 107
-format.name$ -- 12
-if$ -- 239
+cite$ -- 21
+duplicate$ -- 407
+empty$ -- 626
+format.name$ -- 106
+if$ -- 1584
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 2
-newline$ -- 23
-num.names$ -- 2
-pop$ -- 38
+int.to.str$ -- 20
+missing$ -- 14
+newline$ -- 103
+num.names$ -- 13
+pop$ -- 182
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 49
+skip$ -- 348
 stack$ -- 0
-substring$ -- 32
-swap$ -- 16
-text.length$ -- 5
+substring$ -- 306
+swap$ -- 139
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 5
-width$ -- 5
-write$ -- 42
-is.kanji.str$ -- 37
+warning$ -- 1
+while$ -- 37
+width$ -- 22
+write$ -- 213
+is.kanji.str$ -- 218
+(There was 1 error message)

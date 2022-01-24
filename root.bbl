@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{weko}
 下坂正倫.
@@ -21,5 +21,100 @@ Jinwei Liu, Haiying Shen, Husnu~S. Narman, Wingyan Chung, and Zongfang Lin.
 \newblock A survey of mobile crowdsensing techniques: A critical component for
   the internet of things.
 \newblock {\em ACM Trans. Cyber-Phys. Syst.}, Vol.~2, No.~3, June 2018.
+
+\bibitem{ura}
+西村友洋, 樋口雄大, 山口弘純, 東野輝夫.
+\newblock スマートフォンを活用した屋内環境における混雑センシング.
+\newblock 情報処理学会論文誌, Vol.~55, No.~12, pp. 2511--2523, dec 2014.
+
+\bibitem{hoso}
+細川諒, 白石陽.
+\newblock 利用者の歩行特性と乗降車順を考慮したバス内混雑状況推定手法の提案.
+\newblock  第82回全国大会講演論文集, 第2020巻, pp. 221--222, feb 2020.
+
+\bibitem{paku}
+朴斌, 相原健郎.
+\newblock クラウドソースによるモバイルセンシングを用いた路面状況推定.
+\newblock 情報処理学会論文誌, Vol.~59, No.~10, pp. 1784--1793, oct 2018.
+
+\bibitem{Tangmunarunkit}
+H.~Tangmunarunkit, C.~K. Hsieh, B.~Longstaff, S.~Nolen, J.~Jenkins, C.~Ketcham,
+  J.~Selsky, F.~Alquaddoomi, D.~George, J.~Kang, Z.~Khalapyan, J.~Ooms,
+  N.~Ramanathan, and D.~Estrin.
+\newblock Ohmage: A general and extensible end-to-end participatory sensing
+  platform.
+\newblock {\em ACM Trans. Intell. Syst. Technol.}, Vol.~6, No.~3, April 2015.
+
+\bibitem{ohmage}
+ohmage | open data collection.
+\newblock \url{http://ohmage.org/}.
+\newblock (Accessed on 01/23/2021).
+
+\bibitem{Ferreira}
+Denzil Ferreira, Vassilis Kostakos, and Anind Dey.
+\newblock Aware: Mobile context instrumentation framework.
+\newblock {\em Frontiers in ICT}, Vol.~2, , 05 2015.
+
+\bibitem{AWARE}
+Aware ^^e2^^80^^93 open-source context instrumentation framework for everyone.
+\newblock \url{https://awareframework.com/}.
+\newblock (Accessed on 01/23/2021).
+
+\bibitem{jaya}
+Kasthuri Jayarajah, Rajesh~Krishna Balan, Meera Radhakrishnan, Archan Misra,
+  and Youngki Lee.
+\newblock Livelabs: Building in-situ mobile sensing \& behavioural
+  experimentation testbeds.
+\newblock In {\em Proceedings of the 14th Annual International Conference on
+  Mobile Systems, Applications, and Services}, MobiSys '16, p. 1^^e2^^80^^9315,
+  New York, NY, USA, 2016. Association for Computing Machinery.
+
+\bibitem{ara}
+Yutaka Arakawa and Yuki Matsuda.
+\newblock Gamification mechanism for enhancing a participatory urban sensing:
+  Survey and practical results.
+\newblock {\em Journal of Information Processing}, Vol.~24, pp. 31--38, 01
+  2016.
+
+\bibitem{kawa}
+河中祥吾, 松田裕貴, 諏訪博彦, 藤本まなと, 荒川豊, 安本慶一.
+\newblock
+  観光客参加型センシングによる観光情報収集におけるゲーミフィケーションの有効性調査.
+\newblock  マルチメディア，分散協調とモバイルシンポジウム2018論文集, 第2018巻,
+  pp. 145--151, jun 2018.
+
+\bibitem{matsu}
+松田裕貴, 荒川豊, 安本慶一.
+\newblock
+  多様なユースケースに対応可能なユーザ参加型モバイルセンシング基盤の実装と評価.
+\newblock  マルチメディア，分散協調とモバイルシンポジウム2016論文集, 第2016巻,
+  pp. 1042--1050, jul 2016.
+
+\bibitem{Parmo}
+Parmosense | top.
+\newblock \url{https://ubi-naist.github.io/ParmoSense/}.
+\newblock (Accessed on 01/23/2021).
+
+\bibitem{mina}
+坂村美奈, 米澤拓郎, 伊藤友隆, 中澤仁, 徳田英幸.
+\newblock
+  Minaqn：市民参加型まちづくりのための参加型センシングwebプラットフォーム.
+\newblock 情報処理学会論文誌, Vol.~57, No.~10, pp. 2162--2174, oct 2016.
+
+\bibitem{amedas}
+気象庁 | アメダス.
+\newblock
+  \url{https://www.jma.go.jp/bosai/amedas/#area_type=japan&area_code=010000}.
+\newblock (Accessed on 01/23/2022).
+
+\bibitem{S-net}
+Nied |海底地震津波観測網|日本海溝海底地震津波観測網：s-net.
+\newblock \url{https://www.seafloor.bosai.go.jp/S-net/}.
+\newblock (Accessed on 01/23/2022).
+
+\bibitem{ziten}
+山崎昶.
+\newblock 法則の辞典.
+\newblock 朝倉書店, 2006.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  23 JAN 2022 10:56
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  25 JAN 2022 00:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,7 +371,11 @@ File: l3backend-dvipdfmx.def 2021-12-14 L3 backend support: dvipdfmx
 \g__pdf_backend_object_int=\count305
 \g__pdf_backend_annotation_int=\count306
 \g__pdf_backend_link_int=\count307
-) (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux))
+) (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux
+
+LaTeX Warning: Label `fig:polygon_2' multiply defined.
+
+) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux))
 \openout1 = `root.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -448,41 +452,81 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 
  (./chap2.tex
 第 2 章
-) [7
+[7
 
 
 
 
-]
+]) [8]
 \openout2 = `chap3.aux'.
 
  (./chap3.tex
 第 3 章
-) [8
+File: img_lavlus.png Graphic file (type bmp)
+<img_lavlus.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 42--43
+ [][] 
+ []
+
+[9
 
 
 
 
-]
+]) [10]
 \openout2 = `chap4.aux'.
 
  (./chap4.tex
 第 4 章
+File: img_myApp.png Graphic file (type bmp)
+<img_myApp.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 17.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 17.
-) [9
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 54.
+[11
 
 
 
 
 ]
+File: img_polygon_1.png Graphic file (type bmp)
+<img_polygon_1.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+File: img_polygon_2.png Graphic file (type bmp)
+<img_polygon_2.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 77--78
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `naigai' on page 12 undefined on input line 86.
+
+[12]
+File: img_margin_1.png Graphic file (type bmp)
+<img_margin_1.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 102--103
+ [][] 
+ []
+
+) [13] [14]
 \openout2 = `chap5.aux'.
 
  (./chap5.tex
 第 5 章
-) [10
+) [15
 
 
 
@@ -492,7 +536,7 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 
  (./chap6.tex
 第 6 章
-) [11
+) [16
 
 
 
@@ -500,7 +544,7 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 ]
 \openout2 = `thanks.aux'.
 
- (./thanks.tex) [12
+ (./thanks.tex) [17
 
 
 
@@ -511,19 +555,34 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
  (./reference.tex (./root.bbl
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 23.
-)) [13
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 46.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 56.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 68.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 76.
+ [18
 
 
 
 
-] (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux)) ) 
+])) [19] (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 13865 strings out of 478816
- 281771 string characters out of 5860375
- 557005 words of memory out of 5000000
- 31914 multiletter control sequences out of 15000+600000
+ 13924 strings out of 478816
+ 282729 string characters out of 5860375
+ 560218 words of memory out of 5000000
+ 31961 multiletter control sequences out of 15000+600000
  418808 words of font info for 93 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  84i,6n,89p,439b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on root.dvi (13 pages, 48452 bytes).
+Output written on root.dvi (19 pages, 83424 bytes).
