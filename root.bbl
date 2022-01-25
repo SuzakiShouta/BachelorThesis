@@ -117,4 +117,14 @@ Nied |海底地震津波観測網|日本海溝海底地震津波観測網：s-ne
 \newblock 法則の辞典.
 \newblock 朝倉書店, 2006.
 
+\bibitem{naigai}
+【第2回】点の多角形に対する内外判定｜【技業log】技術者が紹介するnttpcのテクノロジー｜【公式】nttpc.
+\newblock \url{https://www.nttpc.co.jp/technology/number_algorithm.html}.
+\newblock (Accessed on 01/28/2021).
+
+\bibitem{GoogleMap}
+Google mapの各ズームレベルごとのピクセル数と距離の関係.
+\newblock \url{https://kinsentansa.blogspot.com/2009/09/google-map.html}.
+\newblock (Accessed on 01/25/2022).
+
 \end{thebibliography}

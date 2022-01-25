@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  25 JAN 2022 00:23
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  25 JAN 2022 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,11 +371,7 @@ File: l3backend-dvipdfmx.def 2021-12-14 L3 backend support: dvipdfmx
 \g__pdf_backend_object_int=\count305
 \g__pdf_backend_annotation_int=\count306
 \g__pdf_backend_link_int=\count307
-) (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux
-
-LaTeX Warning: Label `fig:polygon_2' multiply defined.
-
-) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux))
+) (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux))
 \openout1 = `root.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -482,14 +478,14 @@ Overfull \hbox (8.5359pt too wide) in paragraph at lines 42--43
 File: img_myApp.png Graphic file (type bmp)
 <img_myApp.png>
 
-Overfull \hbox (8.5359pt too wide) in paragraph at lines 46--47
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 54.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 54.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 52.
 [11
 
 
@@ -499,44 +495,77 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 File: img_polygon_1.png Graphic file (type bmp)
 <img_polygon_1.png>
 
-Overfull \hbox (8.5359pt too wide) in paragraph at lines 70--71
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 68--69
  [][] 
  []
 
 File: img_polygon_2.png Graphic file (type bmp)
 <img_polygon_2.png>
 
-Overfull \hbox (8.5359pt too wide) in paragraph at lines 77--78
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 75--76
  [][] 
  []
-
-
-LaTeX Warning: Citation `naigai' on page 12 undefined on input line 86.
 
 [12]
 File: img_margin_1.png Graphic file (type bmp)
 <img_margin_1.png>
 
-Overfull \hbox (8.5359pt too wide) in paragraph at lines 102--103
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 100--101
  [][] 
  []
 
-) [13] [14]
+File: img_margin_2.png Graphic file (type bmp)
+<img_margin_2.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
+
+[13]
+File: img_notify.png Graphic file (type bmp)
+<img_notify.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+[14]) [15] [16]
 \openout2 = `chap5.aux'.
 
  (./chap5.tex
 第 5 章
-) [15
+File: img_margin_2.png Graphic file (type bmp)
+<img_margin_2.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
+
+File: img_ex_case_1.png Graphic file (type bmp)
+<img_ex_case_1.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 27--28
+ [][] 
+ []
+
+File: img_ex_case_2.png Graphic file (type bmp)
+<img_ex_case_2.png>
+
+Overfull \hbox (8.5359pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+[17
 
 
 
 
-]
+]) [18] [19]
 \openout2 = `chap6.aux'.
 
  (./chap6.tex
 第 6 章
-) [16
+) [20
 
 
 
@@ -544,7 +573,7 @@ Overfull \hbox (8.5359pt too wide) in paragraph at lines 102--103
 ]
 \openout2 = `thanks.aux'.
 
- (./thanks.tex) [17
+ (./thanks.tex) [21
 
 
 
@@ -563,26 +592,19 @@ LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 68.
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 76.
- [18
+ [22
 
 
 
 
-])) [19] (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+])) [23] (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux)) ) 
 Here is how much of TeX's memory you used:
- 13924 strings out of 478816
- 282729 string characters out of 5860375
- 560218 words of memory out of 5000000
- 31961 multiletter control sequences out of 15000+600000
+ 13956 strings out of 478816
+ 283411 string characters out of 5860375
+ 560255 words of memory out of 5000000
+ 31985 multiletter control sequences out of 15000+600000
  418808 words of font info for 93 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  84i,6n,89p,439b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on root.dvi (19 pages, 83424 bytes).
+Output written on root.dvi (23 pages, 99396 bytes).

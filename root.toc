@@ -16,12 +16,12 @@
 \contentsline {section}{\numberline {4.2}特定の時空間への進入時に自動センシングするアプリケーションの実装}{11}{}%
 \contentsline {subsection}{\numberline {4.2.1}時空間フェンシングの実装}{12}{}%
 \contentsline {subsection}{\numberline {4.2.2}センシング依頼通知の実装}{13}{}%
-\contentsline {subsection}{\numberline {4.2.3}自動センシングの実装}{13}{}%
-\contentsline {chapter}{\numberline {第5章}動作検証}{15}{}%
-\contentsline {section}{\numberline {5.1}時空間フェンシングの動作検証}{15}{}%
-\contentsline {section}{\numberline {5.2}ユースケースを想定した動作検証}{15}{}%
-\contentsline {chapter}{\numberline {第6章}おわりに}{16}{}%
-\contentsline {section}{\numberline {6.1}まとめ}{16}{}%
-\contentsline {section}{\numberline {6.2}今後の課題}{16}{}%
-\contentsline {chapter}{\numberline {} 謝辞}{17}{}%
-\contentsline {chapter}{\numberline {} 参考文献}{18}{}%
+\contentsline {subsection}{\numberline {4.2.3}自動センシングの実装}{14}{}%
+\contentsline {chapter}{\numberline {第5章}動作検証}{17}{}%
+\contentsline {section}{\numberline {5.1}時空間フェンシングの動作検証}{17}{}%
+\contentsline {section}{\numberline {5.2}ユースケースを想定した動作検証}{17}{}%
+\contentsline {chapter}{\numberline {第6章}おわりに}{20}{}%
+\contentsline {section}{\numberline {6.1}まとめ}{20}{}%
+\contentsline {section}{\numberline {6.2}今後の課題}{20}{}%
+\contentsline {chapter}{\numberline {} 謝辞}{21}{}%
+\contentsline {chapter}{\numberline {} 参考文献}{22}{}%
