@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  25 JAN 2022 14:34
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  27 JAN 2022 22:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -529,7 +529,7 @@ Overfull \hbox (8.5359pt too wide) in paragraph at lines 151--152
  [][] 
  []
 
-[14]) [15] [16]
+[14] [15]) [16]
 \openout2 = `chap5.aux'.
 
  (./chap5.tex
@@ -555,17 +555,17 @@ Overfull \hbox (8.5359pt too wide) in paragraph at lines 39--40
  [][] 
  []
 
-[17
+) [17
 
 
 
 
-]) [18] [19]
+] [18]
 \openout2 = `chap6.aux'.
 
  (./chap6.tex
 第 6 章
-) [20
+) [19
 
 
 
@@ -573,7 +573,7 @@ Overfull \hbox (8.5359pt too wide) in paragraph at lines 39--40
 ]
 \openout2 = `thanks.aux'.
 
- (./thanks.tex) [21
+ (./thanks.tex) [20
 
 
 
@@ -592,12 +592,12 @@ LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 68.
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 76.
- [22
+ [21
 
 
 
 
-])) [23] (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux)) ) 
+])) [22] (./root.aux (./cover.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./chap6.aux) (./thanks.aux) (./reference.aux)) ) 
 Here is how much of TeX's memory you used:
  13956 strings out of 478816
  283411 string characters out of 5860375
@@ -607,4 +607,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  84i,6n,89p,439b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on root.dvi (23 pages, 99396 bytes).
+Output written on root.dvi (22 pages, 99084 bytes).

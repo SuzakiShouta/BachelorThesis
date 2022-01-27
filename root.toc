@@ -7,7 +7,7 @@
 \contentsline {chapter}{\numberline {第2章}関連研究}{7}{}%
 \contentsline {section}{\numberline {2.1}クラウドセンシングに関する研究}{7}{}%
 \contentsline {section}{\numberline {2.2}クラウドセンシングプラットフォームに関する研究}{7}{}%
-\contentsline {section}{\numberline {2.3}センシング端末に関する研究}{8}{}%
+\contentsline {section}{\numberline {2.3}クラウドセンシングで使われるセンシング端末に関する研究}{8}{}%
 \contentsline {chapter}{\numberline {第3章}時空間フェンシングに基づいたクラウドセンシングプラットフォーム}{9}{}%
 \contentsline {section}{\numberline {3.1}時空間フェンシングの定義}{9}{}%
 \contentsline {section}{\numberline {3.2}時空間フェンシングに基づくクラウドセンシングプラットフォーム}{10}{}%
@@ -20,8 +20,8 @@
 \contentsline {chapter}{\numberline {第5章}動作検証}{17}{}%
 \contentsline {section}{\numberline {5.1}時空間フェンシングの動作検証}{17}{}%
 \contentsline {section}{\numberline {5.2}ユースケースを想定した動作検証}{17}{}%
-\contentsline {chapter}{\numberline {第6章}おわりに}{20}{}%
-\contentsline {section}{\numberline {6.1}まとめ}{20}{}%
-\contentsline {section}{\numberline {6.2}今後の課題}{20}{}%
-\contentsline {chapter}{\numberline {} 謝辞}{21}{}%
-\contentsline {chapter}{\numberline {} 参考文献}{22}{}%
+\contentsline {chapter}{\numberline {第6章}おわりに}{19}{}%
+\contentsline {section}{\numberline {6.1}まとめ}{19}{}%
+\contentsline {section}{\numberline {6.2}今後の課題}{19}{}%
+\contentsline {chapter}{\numberline {} 謝辞}{20}{}%
+\contentsline {chapter}{\numberline {} 参考文献}{21}{}%
