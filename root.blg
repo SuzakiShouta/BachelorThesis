@@ -12,21 +12,21 @@ A level-1 auxiliary file: thanks.aux
 A level-1 auxiliary file: reference.aux
 The style file: junsrt.bst
 Database file #1: reference.bib
-Repeated entry---line 357 of file reference.bib
+Repeated entry---line 340 of file reference.bib
  : @techreport{weko
  :                 ,
 I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in hoso
 You've used 22 entries,
             2270 wiz_defined-function locations,
-            665 strings with 7568 characters,
-and the built_in function-call counts, 6605 in all, are:
+            663 strings with 7564 characters,
+and the built_in function-call counts, 6585 in all, are:
 = -- 513
 > -- 181
 < -- 23
 + -- 75
 - -- 53
-* -- 296
+* -- 276
 := -- 728
 add.period$ -- 67
 call.type$ -- 22
