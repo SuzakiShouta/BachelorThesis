@@ -1,0 +1,54 @@
+
+[
+  {
+    "id": "BQEwdZnsy",
+    "name": "天候による歩行スピードの調査",
+    "overview": "天候による歩行スピードの調査の研究のデータ収集",
+    "startDate": "2021-12-20T08:30:00.000Z",
+    "endDate": "2022-01-20T016:00:00.000Z",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ait.ac.jp%2Faccess%2F&psig=AOvVaw1tgrF8AyTFqNh8BMWH2hk1&ust=1643601378007000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjCnrXK2PUCFQAAAAAdAAAAABAD",
+    "updatedAt": "2022-01-10T03:50:06.208Z",
+    "createdAt": "2022-12-19T03:50:03.311Z",
+    "ownerId": "uUHwrwKCF",
+    "sensorSetting": {
+      "id": "WxwRdVafG",
+      "isProvidedProfile": true,
+      "sensors": [
+        {"name": "liner_accelerometer","frequency": 40},
+        {"name": "GPS","frequency": 1}
+      ],
+      "updatedAt": "2022-01-10T03:50:06.208Z",
+      "createdAt": "2021-12-19T03:50:03.311Z",
+      "projectId": "BQEwdZnsy"
+    },
+    "spatiotemporalSetting": {
+      "id": "DM8okfQMwI",
+      "location": {"lat": 35.1852,"lng": 137.11548},
+      "area": [
+        {"lat": 35.18542746756528,"lng": 137.10979214086217},
+        {"lat": 35.1814431656964,"lng": 137.1092583940185},
+        {"lat": 35.18137772845157,"lng": 137.11716674310006},
+        {"lat": 35.185485631102004,"lng": 137.11656183000943}
+      ],
+      "periods": [
+        {
+          "interval": {
+            "length": 0,
+            "entity": "week",
+            "dayOfWeek": [
+              "mon", "tue", "wed", "thu", "fir"
+            ]
+          },
+          "period": {
+            "from": "8:30:00",
+            "to": "16:40:00"
+          }
+        }
+      ],
+      "updatedAt": "2022-01-10T03:50:06.208Z",
+      "projectId": "BQEwdZnsy",
+      "createdAt": "2021-12-19T03:50:03.311Z"
+    }
+  }
+]
+
